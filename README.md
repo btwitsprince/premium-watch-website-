@@ -32,6 +32,8 @@ This project was built to simulate a real-world luxury e-commerce landing page, 
 * **JavaScript (Vanilla JS)** – Interactivity and dynamic behavior
 
 📁 Project Structure
+
+
 premium-watch-website/
 │
 ├── index.html
