@@ -60,6 +60,8 @@ This project was built to simulate a real-world luxury e-commerce landing page, 
 👨‍💻 Author
 
 Prince Mehta
+
+
 ⭐ Support
 
 If you like this project, consider giving it a ⭐ — it helps me grow and reach more opportunities!
