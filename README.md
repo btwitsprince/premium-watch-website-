@@ -31,17 +31,6 @@ This project was built to simulate a real-world luxury e-commerce landing page, 
 * **CSS3** – Advanced styling (flexbox, grid, animations)
 * **JavaScript (Vanilla JS)** – Interactivity and dynamic behavior
 
-📁 Project Structure
-
-
-premium-watch-website/
-│
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-    ├── images/
-    └── icons/
     
 
 📊 What Makes This Project Stand Out
